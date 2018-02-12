@@ -9,7 +9,7 @@ namespace Atlas.Auth.Integration
     {
         static void Main(string[] args)
         {
-            var authUrl = "https://atlas-auth.azurewebsites.net";
+            var authUrl = "http://31.148.0.53";
 
             var username = "test@example.com";
             var password = "strongpasword";
