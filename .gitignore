@@ -1,0 +1,6 @@
+src/.vs/*
+src/Atlas.Auth.Client/bin/*
+src/Atlas.Auth.Client/obj/*
+src/Atlas.Auth.Integration/obj/*
+src/packages/*
+src/Atlas.Auth.Integration/bin/*

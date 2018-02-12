@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.Auth.Integration", "Atlas.Auth.Integration\Atlas.Auth.Integration.csproj", "{A87AE2FA-9A95-442E-96F8-C5171645C7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.Auth.Client", "Atlas.Auth.Client\Atlas.Auth.Client.csproj", "{9703CD1E-321C-471E-ABBE-485AC025C0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87AE2FA-9A95-442E-96F8-C5171645C7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87AE2FA-9A95-442E-96F8-C5171645C7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87AE2FA-9A95-442E-96F8-C5171645C7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87AE2FA-9A95-442E-96F8-C5171645C7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9703CD1E-321C-471E-ABBE-485AC025C0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9703CD1E-321C-471E-ABBE-485AC025C0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9703CD1E-321C-471E-ABBE-485AC025C0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9703CD1E-321C-471E-ABBE-485AC025C0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466F954D-2DE0-4220-B56E-11EE4A71CAB6}
+	EndGlobalSection
+EndGlobal
